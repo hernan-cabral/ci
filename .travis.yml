@@ -1,8 +1,6 @@
 language: java
 install: true
 
-os: osx
-dist: trusty
 jdk: oraclejdk11
 
 script:
